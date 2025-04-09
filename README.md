@@ -15,11 +15,6 @@ Create a React Native app that interfaces with a SQLite database.
 - Know how to create a React Native project
 - Android Studio is already installed
 
-> **Disclaimer:**  
-> There are many hardware dependencies and some extra work you might have to do to get a project like this to work.  
-> It’s slightly more complicated than downloading node and running your app.  
-> You should create your own project and use [my project](https://github.com/MichaelGit202/React-Presentation) as a reference.
-
 ---
 
 ## Installation
